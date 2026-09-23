@@ -24,3 +24,6 @@ htmlcov/
 
 # Cursor / editor local config
 .cursor/
+
+# Local session notes (do NOT publish)
+SESSION_STATE.md
